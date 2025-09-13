@@ -130,10 +130,10 @@ me.say_hi()
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOURID)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOURHANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/929307108002889769)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/myckasp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mickas@outlook.dk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myckasp.flickmc.dk)
 
 </div>
 
@@ -165,7 +165,7 @@ const funFacts = {
 <div align="center">
   
 ### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/myckasp/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=myckasp&style=flat-square&label=PROFILE+VIEWS&color=blue)
 
 </div>
 
@@ -177,13 +177,3 @@ const funFacts = {
   🥚 You found the easter egg! 
   Here's a secret: I sometimes code at 2 AM (don't tell my parents! 🤫)
 -->
-```
-
-**⚠️ IMPORTANT: Replace these placeholders:**
-- `YOURUSERNAME` - Your GitHub username
-- `PROJECT1`, `PROJECT2` - Your actual repository names
-- `YOURSPOTIFYID` - Your Spotify ID (or remove this section)
-- `YOURID` - Your Discord ID
-- `YOURHANDLE` - Your Twitter handle
-- `your.email@example.com` - Your email
-- `yourportfolio.com` - Your portfolio website
