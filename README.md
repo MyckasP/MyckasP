@@ -165,7 +165,7 @@ const funFacts = {
 <div align="center">
   
 ### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/YOURUSERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/myckasp/count.svg)
 
 </div>
 
