@@ -145,7 +145,7 @@ me.say_hi()
 const funFacts = {
   age: 14,
   started_coding_at: 12,
-  favorite_framework: "Next.js 13+ (App Router is 🔥)",
+  favorite_framework: "Next.js 15+ (App Router is 🔥)",
   learning: ["Three.js", "WebGL", "Rust"],
   fun_fact: "I debug with console.log and I'm not ashamed! 😄",
   life_motto: "Age is just a number, code is eternal",
