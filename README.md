@@ -118,7 +118,6 @@ me.say_hi()
 
 ### 🎵 Vibing to
 [![Now Playing](https://now-play.vercel.app/api/generate?uid=6ff3426c-0a1f-4733-b19d-43ed80e11213&theme=dark)](https://open.spotify.com/user/31odwvdxskkitpknxemqhl3vbxua)
-*(Shows currently playing, or recently played if offline)*
 
 </div>
 
