@@ -1,6 +1,6 @@
 <!-- Animated Wave -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12,24&height=180&section=header&text=Hey,%20I'm%20a%2014y/o%20Developer%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,2,12,24&height=180&section=header&text=Hey,%20I'm%20a%2015y/o%20Developer%20🚀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <!-- Typing Animation -->
@@ -20,7 +20,7 @@
 ```python
 class YoungDeveloper:
     def __init__(self):
-        self.age = 14
+        self.age = 15
         self.role = "Full Stack Developer"
         self.location = "Building from my room 🏠"
         self.current_focus = "Creating stunning web experiences"
@@ -143,13 +143,13 @@ me.say_hi()
 
 ```javascript
 const funFacts = {
-  age: 14,
+  age: 15,
   started_coding_at: 9,
   favorite_framework: "Next.js 15+ (App Router is 🔥)",
   learning: ["Three.js", "WebGL", "Rust"],
   fun_fact: "I debug with console.log and I'm not ashamed! 😄",
   life_motto: "Age is just a number, code is eternal",
-  coffee_consumed: "0 cups (I'm 14, I drink juice 🧃)",
+  coffee_consumed: "0 cups (I'm 15, I drink juice 🧃)",
   lines_of_code: "Probably millions... or at least it feels like it!"
 };
 ```
