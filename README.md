@@ -6,7 +6,8 @@
 <!-- Typing Animation -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=800&lines=Building+the+Web,+One+Line+at+a+Time;Next.js+%7C+React+%7C+TypeScript;Young+Mind,+Big+Dreams+✨)](https://git.io/typing-svg)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31odwvdxskkitpknxemqhl3vbxua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 </div>
 
