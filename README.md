@@ -117,7 +117,7 @@ me.say_hi()
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🎵 Vibing to
-[![Now Playing](https://now-play.vercel.app/api/generate?uid=6ff3426c-0a1f-4733-b19d-43ed80e11213&theme=dark)](https://open.spotify.com/user/31odwvdxskkitpknxemqhl3vbxua)
+[![Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=31odwvdxskkitpknxemqhl3vbxua&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://open.spotify.com/user/31odwvdxskkitpknxemqhl3vbxua)
 
 </div>
 
